@@ -8,7 +8,7 @@ The dataset contains customer info, claim details, policy data, and settlement o
 
 ## Notebook
 
-The `insurance_claim_prediction.ipynb` notebook includes:
+The `Insurance_settlement.ipynb` notebook includes:
 
 - Data exploration
 - Preprocessing
